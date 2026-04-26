@@ -13,7 +13,6 @@ CivicFix
 │
 ├── frontend/        # React-based user interface
 ├── backend/         # FastAPI backend APIs
-├── database/        # MongoDB collections
 └── README.md        # Project documentation
 ```
 
